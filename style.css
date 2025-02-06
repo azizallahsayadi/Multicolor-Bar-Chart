@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(89, 88, 88);
+    color: rgb(30, 252, 178);
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;     /* Center vertically */
+    height: 100vh;          /* Full viewport height */
+    margin: 10;              /* Remove default margin */
+    padding:10px;
+    text-align: center;
+}
+svg {
+    border: 2px solid #ecfc56; /* Optional: Add a border for visibility */
+    background-color: rgb(41, 40, 40);
+}
